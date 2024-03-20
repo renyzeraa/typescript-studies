@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2016",                                  
+    "target": "ESNext", /* Versão que sera compilada */                                  
     "module": "commonjs",                                
     "esModuleInterop": true,                             
     "forceConsistentCasingInFileNames": true,            
