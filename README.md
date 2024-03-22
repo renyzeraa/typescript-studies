@@ -2,6 +2,13 @@
 
 Estudos sobre a linguagem TypeScript
 
+### Conteúdo
+
+- Annotation
+- Inference
+- Type
+- Union Type
+
 ### Considerações
 
 - Instalar typescript globalmente e para desenvolvimento
