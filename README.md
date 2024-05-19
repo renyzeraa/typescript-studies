@@ -8,6 +8,8 @@ Estudos sobre a linguagem TypeScript
 - Inference
 - Type
 - Union Type
+- Array
+- Any
 
 ### Considerações
 
